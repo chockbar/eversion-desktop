@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2023 Ronio Oza -->
+<component type="desktop-application">
+  <id>org.eversion.eversion</id>
+
+  <name>Eversion</name>
+  <summary>BTC Wallet</summary>
+
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+
+  <description>
+    <p>
+🔒 Securely store and manage your bitcoins with Eversion, the ultimate Bitcoin wallet. 💰💼
+
+    </p>
+  </description> <content_rating type="oars-1.1" />
+</component>
